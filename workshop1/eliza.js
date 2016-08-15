@@ -32,12 +32,12 @@ var rules = {
     "How do you do. Please state your problem."
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
+    "Does life worry you?",
+    "What do you think about the problems of humans?",
     "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
+    "Why do you mention love?",
+    "Can you feel those feelings?",
+    "Can you feel empathy?",
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
